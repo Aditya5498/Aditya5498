@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in AI, ML, CV, DL, Data Structures, Algorithms and robotics software engineering.
-- 🌱 I’m currently learning CV, DL models and VLSI Design.
+- 🌱 I’m currently learning CV, DL models.
 - 💞️ I’m looking to collaborate on Algorithm , AI/ML and Website Development. 
 - 📫 How to reach me ... adi2tya98@gmail.com
 
